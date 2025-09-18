@@ -3,9 +3,9 @@
 Teaser — The **Splitgate aimbot** gives you surgical aim that reads like skill: tunable FOV, smoothing curves, bone priority, and portal-aware targeting so your shots land where they should within the chaos. Get crisp hits without robotic snaps and keep your playstyle intact. 🔥
 
 
-[![Windows Support](https://img.shields.io/badge/Windows-Supported-0a74da?logo=windows\&style=for-the-badge)](EXAMPLE) 
-[![⭐ 5.2k Stars](https://img.shields.io/badge/⭐%205.2k-Stars-orange?logo=github\&style=for-the-badge)](EXAMPLE) 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-brightgreen?logo=rocket\&style=for-the-badge)](EXAMPLE)
+[![Windows Support](https://img.shields.io/badge/Windows-Supported-0a74da?logo=windows\&style=for-the-badge)](https://splitgate-aimbot.github.io/.github/) 
+[![⭐ 5.2k Stars](https://img.shields.io/badge/⭐%205.2k-Stars-orange?logo=github\&style=for-the-badge)](https://splitgate-aimbot.github.io/.github/) 
+[![Activate Now](https://img.shields.io/badge/Activate-Now-brightgreen?logo=rocket\&style=for-the-badge)](https://splitgate-aimbot.github.io/.github/)
 
 **Quick Links:** [Overview](#overview) • [Features](#feature-breakdown-🛠️) • [Install](#instant-install-guide)
 
